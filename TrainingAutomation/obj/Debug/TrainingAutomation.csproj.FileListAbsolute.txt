@@ -1,7 +1,0 @@
-C:\Users\Andreygladikov\source\repos\TrainingAutomation\TrainingAutomation\obj\Debug\TrainingAutomation.csproj.AssemblyReference.cache
-C:\Users\Andreygladikov\source\repos\TrainingAutomation\TrainingAutomation\obj\Debug\TrainingAutomation.csproj.CoreCompileInputs.cache
-C:\Users\Andreygladikov\source\repos\TrainingAutomation\TrainingAutomation\bin\Debug\TrainingAutomation.exe.config
-C:\Users\Andreygladikov\source\repos\TrainingAutomation\TrainingAutomation\bin\Debug\TrainingAutomation.exe
-C:\Users\Andreygladikov\source\repos\TrainingAutomation\TrainingAutomation\bin\Debug\TrainingAutomation.pdb
-C:\Users\Andreygladikov\source\repos\TrainingAutomation\TrainingAutomation\obj\Debug\TrainingAutomation.exe
-C:\Users\Andreygladikov\source\repos\TrainingAutomation\TrainingAutomation\obj\Debug\TrainingAutomation.pdb
